@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="choosePhoto">Select photo</string>
+    <string name="chosedPhoto">Selected photo</string>
+</resources>
